@@ -32,7 +32,6 @@ ext {
 }
 dependencies {
     implementation project(path: ':library')
-    implementation project(path: ':library-extension-rx')
 //    compile 'com.github.instacart.truetime-android:library-extension-rx:master-SNAPSHOT'
 
     implementation 'com.android.support:appcompat-v7:27.1.1'
